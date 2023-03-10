@@ -25,9 +25,10 @@ cd codes/
 
 
 ## 4. Citation
-    @inproceedings{Nguyen2023LinkPO,
-        title={Link Prediction on Latent Heterogeneous Graphs},
-        author={Trung-Kien Nguyen and Zemin Liu and Yuan Fang},
-        year={2023}
-    }
+    @article{nguyen2023link,
+  title={Link Prediction on Latent Heterogeneous Graphs},
+  author={Nguyen, Trung-Kien and Liu, Zemin and Fang, Yuan},
+  journal={arXiv preprint arXiv:2302.10432},
+  year={2023}
+}
 
