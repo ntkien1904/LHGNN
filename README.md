@@ -26,9 +26,9 @@ cd codes/
 
 ## 4. Citation
     @article{nguyen2023link,
-  title={Link Prediction on Latent Heterogeneous Graphs},
-  author={Nguyen, Trung-Kien and Liu, Zemin and Fang, Yuan},
-  journal={arXiv preprint arXiv:2302.10432},
-  year={2023}
-}
+        title={Link Prediction on Latent Heterogeneous Graphs},
+        author={Nguyen, Trung-Kien and Liu, Zemin and Fang, Yuan},
+        journal={arXiv preprint arXiv:2302.10432},
+        year={2023}
+    }
 
