@@ -1,5 +1,5 @@
 torch==1.10.0
-torch_geometric=-2.0.2
+torch_geometric=2.0.2
 numpy==1.21.4
 scipy
 networkx
